@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.d5d1a02d.css",
-    "main.js": "/static/js/main.f19c666b.js",
+    "main.css": "/static/css/main.849e86d7.css",
+    "main.js": "/static/js/main.a7d525f0.js",
     "static/js/787.30237536.chunk.js": "/static/js/787.30237536.chunk.js",
+    "static/media/dog.png": "/static/media/dog.2a56d745aa9b4975492e.png",
     "static/media/scenario1.png": "/static/media/scenario1.da5251c3e37a75bc28ba.png",
+    "static/media/Versus_Header.png": "/static/media/Versus_Header.0ebd9818cf6b170db82b.png",
     "static/media/Intro_heatmap_v2.png": "/static/media/Intro_heatmap_v2.1a1b1ded8f54b4bc835b.png",
     "static/media/Intro_normal_v2.png": "/static/media/Intro_normal_v2.2c6a338289d9c3ffa326.png",
+    "static/media/spacefinder.png": "/static/media/spacefinder.7f7a5e603d66c97c9e45.png",
     "static/media/scenario1Stats.jpg": "/static/media/scenario1Stats.a2fdea96646ab64ec60b.jpg",
     "static/media/dashboard.jpg": "/static/media/dashboard.b7777d4d297446144ce4.jpg",
     "static/media/mb_logo.jpg": "/static/media/mb_logo.57b62ff7d901750c863b.jpg",
     "static/media/candlesticks_plot.png": "/static/media/candlesticks_plot.2f5815ec2f68cd553b96.png",
     "index.html": "/index.html",
-    "main.d5d1a02d.css.map": "/static/css/main.d5d1a02d.css.map",
-    "main.f19c666b.js.map": "/static/js/main.f19c666b.js.map",
+    "main.849e86d7.css.map": "/static/css/main.849e86d7.css.map",
+    "main.a7d525f0.js.map": "/static/js/main.a7d525f0.js.map",
     "787.30237536.chunk.js.map": "/static/js/787.30237536.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5d1a02d.css",
-    "static/js/main.f19c666b.js"
+    "static/css/main.849e86d7.css",
+    "static/js/main.a7d525f0.js"
   ]
 }
